@@ -6,7 +6,7 @@ Self-taught Frontend developer
 
 I was always fascinated by the web and the idea of having my own website up on the Internet. I started coding back in 2020 and I'm loving it ever since. I have worked for several clients helping them bring their ideas to reality and their business to the next level. I am always thrilled to be able to turn an idea into a reality by coding it.
 
-* 🌍  I'm based in Turda, Romania
+* 🌍  I'm based near Cluj, Romania
 * 🖥️  See my portfolio at [andreimuntean.dev](http://andreimuntean.dev)
 * ✉️  You can contact me at [contact@andreimuntean.dev](mailto:contact@andreimuntean.dev)
 * 🚀  I'm currently working on [Atlis](http://atlis.gg)
