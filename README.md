@@ -9,7 +9,7 @@ I was always fascinated by the web and the idea of having my own website up on t
 * 🌍  I'm based near Cluj-Napoca, Romania
 * 🖥️  See my portfolio at [andreimuntean.dev](http://andreimuntean.dev)
 * ✉️  You can contact me at [contact@andreimuntean.dev](mailto:contact@andreimuntean.dev)
-* 🚀  I'm currently working on [Atlis](http://atlis.gg)
+* 🚀  I'm currently working on [bioRO](https://bioro.ro)
 * 🧠  I'm learning Svelte
 
 ### Skills
